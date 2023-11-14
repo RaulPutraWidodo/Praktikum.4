@@ -11,5 +11,6 @@ Lalu mencari nilai akhir dengan perhitungan nilai tugas 30%, nilai uts 35% dan u
 
 flowchart
 ![ss](flowchart.jpeg)
+
 code
-[ss](
+![ss](code.png)
