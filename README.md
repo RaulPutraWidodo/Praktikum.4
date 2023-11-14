@@ -14,3 +14,6 @@ flowchart
 
 code
 ![ss](code.png)
+
+output
+![ss](output.png)
