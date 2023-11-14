@@ -9,4 +9,7 @@ Lalu mencari nilai akhir dengan perhitungan nilai tugas 30%, nilai uts 35% dan u
 <br>6.Lalu cetak dengan perintah print(i+1,Nama[i],Nim[i],TGS[i],UTS[i],UAS[i],Nilaiakhir[i] )
 <br>7.Selesai
 
-![ss][Screenshot (22).png]
+flowchart
+![ss](flowchart.jpeg)
+code
+[ss](
